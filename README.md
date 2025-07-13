@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/> <!--HEADER-->
-  <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner_final.gif" width="100%">
-
+  <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
 
 <h2 align="center">
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=000000&style=plastic" alt="johnraivenolazo" /></p>  
