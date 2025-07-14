@@ -52,12 +52,8 @@ I'm a software engineer. I started programming at 16 and have since gained hands
 | 🗃 Databases       | `MongoDB` `MySQL` `PostgreSQL` `SQLite`                                                    |
 | 🧪 Testing         | `Jest` `React Testing Library` `Vitest`                                                   |
 | 🧰 Others          | `NPM` `NVM` `PNPM` `ESLint` `Prettier` `Framer Motion`                                    |
-<p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 </div>
-<br />
 <!-- <h2 align="center">📜 Certifications 📜</h2>
 <div align="center">
    <a href="https://courses.cognitiveclass.ai/certificates/301bc038c75a409da82c659fc04a1658" target="_blank">
@@ -82,7 +78,7 @@ I'm a software engineer. I started programming at 16 and have since gained hands
     height="165"
   />
   <img
-    src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=dark&layout=compact&hide=html,css,scss"
+    src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=dark&layout=compact&hide=html,css,scss&border_radius=10"
     alt="Top Languages"
     height="195"
   />
