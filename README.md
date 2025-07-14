@@ -26,19 +26,19 @@ I'm a software engineer. I started programming at 16 and have since gained hands
 <a href="https://www.linkedin.com/in/johnraivenolazo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzk" alt="LinkedIn" />
 </a>
-  <a href="https://leetcode.com/johnraivenolazo/" target="_blank">
+<!--   <a href="https://leetcode.com/johnraivenolazo/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="LeetCode" />
-  </a>
+  </a> -->
 </p>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" alt="Divider – No System Is Safe"
     style="width:100%; display:block;" /></p>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="60" alt="Lua" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="55" alt="Lua" />
 </div>
 <div align="center">
 
