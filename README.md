@@ -5,8 +5,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>
 <strong><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me</strong>
 
-<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=dark"/>
-
+<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=dark&include_all_commits=true"/>
 <p align="center">
 I'm a software engineer. I started programming at 16 and have since gained hands-on experience as a cross-platform developer through years of self-learning. I’m always improving, building, and experimenting with new tech to solve real-world problems.
 </p>
@@ -27,7 +26,8 @@ I'm a software engineer. I started programming at 16 and have since gained hands
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="LeetCode" />
   </a>
 </p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" alt="Divider – No System Is Safe"
+    style="width:100%; display:block;" /></p>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
@@ -54,7 +54,6 @@ I'm a software engineer. I started programming at 16 and have since gained hands
 
 </div>
 <br />
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>
 <!-- <h2 align="center">📜 Certifications 📜</h2>
 <div align="center">
    <a href="https://courses.cognitiveclass.ai/certificates/301bc038c75a409da82c659fc04a1658" target="_blank">
@@ -72,20 +71,26 @@ I'm a software engineer. I started programming at 16 and have since gained hands
    </a>
 </div>
 <br/> -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
-<br>
 <p align="center">
-<table align="center">
-   <tr border="none">
-      <td width="50%" align="center">
-         <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&include_all_commits=true&theme=dark&border_radius=10&rank_icon=github" alt="readme stats" target="_blank"/>
-         <br>
-         <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&include_all_commits=true&theme=dark&border_radius=10" alt="Raiven streak" target="_blank"/> 
-      </td>
-      <td width="50%" align="center">
-         <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=dark&layout=compact&hide=html,css,scss&border_radius=40&size_weight=0.5&count_weight=0.5" alt="top langs" />
-      </td>
-   </tr>
-</table>
+  <img
+    src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&theme=dark&include_all_commits=true&border_radius=10"
+    alt="GitHub Streak"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=dark&layout=compact&hide=html,css,scss"
+    alt="Top Languages"
+    height="195"
+  />
 </p>
+<!-- Full‑column divider -->
+<!-- slimmer text, same full‑width divider -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=No+System+Is+Safe&fontColor=39FF14&fontSize=14"
+    alt="Divider – No System Is Safe"
+    style="width:100%; display:block;"
+  />
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
