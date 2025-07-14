@@ -2,7 +2,11 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=000000&style=plastic" alt="johnraivenolazo" /></p>  
 <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=100&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=No+System+Is+Safe&fontColor=39FF14&fontSize=14"
+    alt="Divider – No System Is Safe"
+    style="width:100%; display:block;"
+  />
 <strong><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me</strong>
 
 <img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=dark&include_all_commits=true"/>
