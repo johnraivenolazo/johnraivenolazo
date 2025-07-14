@@ -1,15 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/> <!--HEADER-->
-  <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
-
-<h2 align="center">
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=000000&style=plastic" alt="johnraivenolazo" /></p>  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=120&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" />
-</h2>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=000000&style=plastic" alt="johnraivenolazo" /></p>  
+<img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=100&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" /></p>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>
-<strong>
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me
-</strong>
+<strong><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me</strong>
 
 <img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=dark"/>
 
@@ -54,20 +48,6 @@ Education
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=5&section=header" /></p>
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20">&nbsp;Tech Stack&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"></h2>
-<div align="center">
-   <pre style="color: #39FF14; font-family: 'Fira Code', monospace; font-size: 16px; background-color: #000000; padding: 16px; border-radius: 10px; width: 80%; line-height: 1.5;">
-   > languages:
-      javascript, typescript, php, java, python, lua
-   > frameworks:
-      react, nextjs, nodejs, express, tailwind, bootstrap
-   > databases:
-      mongodb, mysql, postgresql
-   > tools:
-      git, github, docker
-   </pre>
-</div>
-<br/>
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
@@ -82,6 +62,19 @@ Education
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
 </div>
+<div align="center">
+   <pre style="color: #39FF14; font-family: 'Fira Code', monospace; font-size: 16px; background-color: #000000; padding: 16px; border-radius: 10px; width: 80%; line-height: 1.5;">
+   > languages:
+      javascript, typescript, php, java, python, lua
+   > frameworks:
+      react, nextjs, nodejs, express, tailwind, bootstrap
+   > databases:
+      mongodb, mysql, postgresql
+   > tools:
+      git, github, docker
+   </pre>
+</div>
+<br/>
 <br />
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header&text=No+System+Is+Safe&fontColor=39FF14&fontSize=20&textAlign=center&width=100%" /></p>
 <!-- <h2 align="center">📜 Certifications 📜</h2>
