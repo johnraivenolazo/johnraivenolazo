@@ -9,7 +9,8 @@
   />
 <strong><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me</strong>
 
-<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=dark&count_private=true&include_all_commits=true"/>
+<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&include_all_commits=true&count_private=true&title_color=00ff6a&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=8&hide=contribs"/>
+
 <p align="center">
 I’ve been into programming since I was 16. I am self-taught, curious, and always building. These days, I work on cross-platform stuff and try to solve real-world problems with code.
 </p>
@@ -72,25 +73,14 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 </div>
 <br/> -->
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&theme=dark&include_all_commits=true&border_radius=10"
-    alt="GitHub Streak"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&theme=dark&layout=compact&hide=html,css,scss&border_radius=10"
-    alt="Top Languages"
-    height="195"
-  />
+  <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&theme=dark&border=00ff6a&ring=00ff6a&fire=00ff6a&currStreakLabel=00ff6a&sideLabels=00ff6a&sideNums=00ff6a&dates=00ff6a&background=000000&border_radius=10" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&layout=compact&hide=html,css,scss&title_color=00ff6a&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
 </p>
-<!-- Full‑column divider -->
-<!-- slimmer text, same full‑width divider -->
-  <img
+
+<img
     src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=No+System+Is+Safe&fontColor=39FF14&fontSize=14"
     alt="Divider – No System Is Safe"
     style="width:100%; display:block;"
-  />
-
-
+/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
