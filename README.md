@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=100&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" /></p>
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=No+System+Is+Safe&fontColor=39FF14&fontSize=14"
+    src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=⚠️+No+System+Is+Safe+⚠️&fontColor=39FF14&fontSize=14"
     alt="Divider – No System Is Safe"
     style="width:100%; display:block;"
   />
@@ -111,10 +111,9 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
   <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&layout=compact&hide=html,css,scss&title_color=00ff6a&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
 </p>
 
-<img
-    src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=No+System+Is+Safe&fontColor=39FF14&fontSize=14"
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=⚠️+No+System+Is+Safe+⚠️&fontColor=39FF14&fontSize=14"
     alt="Divider – No System Is Safe"
     style="width:100%; display:block;"
-/>
-
+  />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
