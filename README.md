@@ -83,7 +83,8 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
     </tr>
   </table>
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" alt="Divider – No System Is Safe"
+    style="width:100%; display:block;" />
 
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/output/github-contribution-grid-snake-dark.svg" />
 </div>
