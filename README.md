@@ -1,5 +1,11 @@
+<p align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile%20views&abbreviated=true&label=Visitor+Count&color=000000&style=plastic" alt="johnraivenolazo" /></p>  
+  <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile+Views&color=000000&style=plastic" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/johnraivenolazo?color=00ff6a&label=Followers&style=plastic" alt="followers" />
+  <img src="https://img.shields.io/github/stars/johnraivenolazo?color=00ff6a&label=Stars&style=plastic" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/johnraivenolazo/johnraivenolazo?color=00ff6a&label=Last+Update&style=plastic" alt="last-commit" />
+</p>
+
 <img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=100&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" /></p>
   <img
@@ -42,19 +48,46 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="55" alt="Lua" />
 </div>
 <div align="center">
+  <table>
+    <tr>
+      <th><img src="https://img.shields.io/badge/Domain-00ff6a?style=for-the-badge&logoColor=00ff6a&color=000000"></th>
+      <th><img src="https://img.shields.io/badge/Stack-00ff6a?style=for-the-badge&logoColor=00ff6a&color=000000"></th>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🌐 Web • React-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>React</code> <code>Next.js</code> <code>Zustand</code> <code>TailwindCSS</code> <code>Node.js</code> <code>Express</code> <code>Vite</code> <code>Bootstrap</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/📱 Mobile-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>React Native</code> <code>Expo</code> <code>NativeWind</code> <code>Reanimated</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🧠 AI/ML-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>YOLOv8</code> <code>ArcFace</code> <code>InsightFace</code> <code>OpenCV</code> <code>Ultralytics</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🛠 Backend-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>FastAPI</code> <code>PostgreSQL</code> <code>SQLite</code> <code>Supabase</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/⚙️ Tools/DevOps-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>Git</code> <code>GitHub</code> <code>Docker</code> <code>VS Code</code> <code>Postman</code> <code>Railway</code> <code>Vercel</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🧪 Testing-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>Jest</code> <code>React Testing Library</code> <code>Vitest</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🧰 Others-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>NPM</code> <code>NVM</code> <code>PNPM</code> <code>ESLint</code> <code>Prettier</code> <code>Framer Motion</code></td>
+    </tr>
+  </table>
 
-| Domain              | Stack                                                                                     |
-|---------------------|-------------------------------------------------------------------------------------------|
-| 🌐 Web • **React**  | `React` `Next.js` `Zustand` `Tailwind CSS` `Node.js` `Express` `Vite` `Bootstrap`        |
-| 📱 Mobile            | `React Native` `Expo` `NativeWind` `Reanimated`                                          |
-| 🧠 AI/ML            | `YOLOv8` `ArcFace` `InsightFace` `OpenCV` `Ultralytics`                                  |
-| 🛠 Backend          | `FastAPI` `PostgreSQL` `SQLite` `Supabase`                                                |
-| ⚙️ Tools/DevOps    | `Git` `GitHub` `Docker` `VS Code` `Postman` `Railway` `Vercel`                            |
-| 🗃 Databases       | `MongoDB` `MySQL` `PostgreSQL` `SQLite`                                                    |
-| 🧪 Testing         | `Jest` `React Testing Library` `Vitest`                                                   |
-| 🧰 Others          | `NPM` `NVM` `PNPM` `ESLint` `Prettier` `Framer Motion`                                    |
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/output/github-contribution-grid-snake-dark.svg" />
+  <br>
+
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
 <!-- <h2 align="center">📜 Certifications 📜</h2>
 <div align="center">
    <a href="https://courses.cognitiveclass.ai/certificates/301bc038c75a409da82c659fc04a1658" target="_blank">
