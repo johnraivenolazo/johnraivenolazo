@@ -11,10 +11,10 @@
 
 <img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&theme=dark&include_all_commits=true"/>
 <p align="center">
-I'm a software engineer. I started programming at 16 and have since gained hands-on experience as a cross-platform developer through years of self-learning. I’m always improving, building, and experimenting with new tech to solve real-world problems.
+I’ve been into programming since I was 16. I am self-taught, curious, and always building. These days, I work on cross-platform stuff and try to solve real-world problems with code.
 </p>
 
-<p align="center">I really love programming. <strong>I really do.</strong></p>
+<p align="center">I just really love programming. Always have.</strong></p>
 
 <p align="center">
   <a href="https://johnraivenolazo.tech" target="_blank">
