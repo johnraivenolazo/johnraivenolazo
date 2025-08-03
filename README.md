@@ -15,8 +15,7 @@
   />
 <strong><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me</strong>
 
-<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&include_all_time_commits=true&count_private=true&title_color=00ff6a&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=8&hide=contribs"/>
-
+<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&count_private=true&include_all_time_commits=true&title_color=00ff6a&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=8&hide=contribs"/>
 
 <p align="center">
 I’ve been into programming since I was 16. I am self-taught, curious, and always building. These days, I work on cross-platform stuff and try to solve real-world problems with code.
