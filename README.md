@@ -107,8 +107,8 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 </div>
 <br/> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&theme=dark&border=00ff6a&ring=00ff6a&fire=00ff6a&currStreakLabel=00ff6a&sideLabels=00ff6a&sideNums=00ff6a&dates=00ff6a&background=000000&border_radius=10" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&layout=compact&hide=html,css,scss&title_color=00ff6a&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&theme=dark&border=00ff6a&ring=00ff6a&currStreakLabel=00ff6a&fire=00ff6a&sideLabels=00ff6a&sideNums=00ff6a&dates=00ff6a&background=000000&border_radius=10" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&layout=compact&hide=html,css,scss&text_color=00ff6a&title_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
 </p>
 
   <img
