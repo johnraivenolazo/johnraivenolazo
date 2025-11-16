@@ -67,7 +67,7 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/🛠 Backend-00ff6a?style=for-the-badge&color=000000"></td>
-      <td><code>FastAPI</code> <code>PostgreSQL</code> <code>SQLite</code> <code>Supabase</code></td>
+      <td><code>FastAPI</code> <code>PostgreSQL</code> <code>SQLite</code> <code>Supabase</code> <code>IBM Db2</code></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/⚙️ Tools/DevOps-00ff6a?style=for-the-badge&color=000000"></td>
