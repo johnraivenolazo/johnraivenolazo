@@ -54,32 +54,48 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
       <th><img src="https://img.shields.io/badge/Stack-00ff6a?style=for-the-badge&logoColor=00ff6a&color=000000"></th>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/🌐 Web • React-00ff6a?style=for-the-badge&color=000000"></td>
-      <td><code>React</code> <code>Next.js</code> <code>Zustand</code> <code>TailwindCSS</code> <code>Node.js</code> <code>Express</code> <code>Vite</code> <code>Bootstrap</code></td>
+      <td><img src="https://img.shields.io/badge/🌐 Web-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>React</code> <code>Next.js</code> <code>Vite</code> <code>TailwindCSS</code> <code>Zustand</code> <code>Radix UI</code> <code>shadcn/ui</code> <code>Framer Motion</code> <code>GSAP</code> <code>React Router</code> <code>React Hook Form</code> <code>Zod</code> <code>TanStack Query</code> <code>SWR</code> <code>Axios</code> <code>Three.js</code> <code>Recharts</code> <code>SCSS</code></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/📱 Mobile-00ff6a?style=for-the-badge&color=000000"></td>
-      <td><code>React Native</code> <code>Expo</code> <code>NativeWind</code> <code>Reanimated</code></td>
+      <td><code>React Native</code> <code>Expo</code> <code>Expo Router</code> <code>NativeWind</code> <code>Reanimated</code> <code>React Navigation</code> <code>Gesture Handler</code> <code>Async Storage</code> <code>Expo AV</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🖥️ Desktop-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>Electron</code> <code>electron-builder</code> <code>electron-store</code> <code>Tauri</code></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/🧠 AI/ML-00ff6a?style=for-the-badge&color=000000"></td>
-      <td><code>YOLOv8</code> <code>ArcFace</code> <code>InsightFace</code> <code>OpenCV</code> <code>Ultralytics</code></td>
+      <td><code>PyTorch</code> <code>TensorFlow</code> <code>ONNX Runtime</code> <code>OpenCV</code> <code>MiniFASNet</code> <code>Hugging Face</code> <code>LangChain</code> <code>NumPy</code> <code>Pandas</code> <code>scikit-learn</code> <code>Matplotlib</code> <code>Pillow</code> <code>SciPy</code></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/🛠 Backend-00ff6a?style=for-the-badge&color=000000"></td>
-      <td><code>FastAPI</code> <code>PostgreSQL</code> <code>SQLite</code> <code>Supabase</code> <code>IBM Db2</code></td>
+      <td><code>Node.js</code> <code>Express</code> <code>FastAPI</code> <code>Uvicorn</code> <code>Pydantic</code> <code>GraphQL</code> <code>tRPC</code> <code>REST API</code> <code>WebSockets</code> <code>Socket.io</code></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/⚙️ Tools/DevOps-00ff6a?style=for-the-badge&color=000000"></td>
-      <td><code>Git</code> <code>GitHub</code> <code>Docker</code> <code>VS Code</code> <code>Postman</code> <code>Railway</code> <code>Vercel</code></td>
+      <td><img src="https://img.shields.io/badge/🗄️ Database-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>PostgreSQL</code> <code>MongoDB</code> <code>SQLite</code> <code>Redis</code> <code>Supabase</code> <code>Firebase</code> <code>Prisma</code> <code>Drizzle ORM</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🔐 Auth-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>NextAuth.js</code> <code>Clerk</code> <code>Supabase Auth</code> <code>Firebase Auth</code> <code>JWT</code> <code>OAuth</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/☁️ Cloud-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>Vercel</code> <code>Railway</code> <code>Cloudflare</code> <code>AWS</code> <code>GCP</code> <code>DigitalOcean</code> <code>Fly.io</code> <code>Render</code></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/⚙️ DevOps-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>Git</code> <code>GitHub Actions</code> <code>Docker</code> <code>Docker Compose</code> <code>Nginx</code> <code>CI/CD</code> <code>PyInstaller</code></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/🧪 Testing-00ff6a?style=for-the-badge&color=000000"></td>
-      <td><code>Jest</code> <code>React Testing Library</code> <code>Vitest</code></td>
+      <td><code>Jest</code> <code>Vitest</code> <code>React Testing Library</code> <code>Playwright</code> <code>Cypress</code> <code>pytest</code></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/🧰 Others-00ff6a?style=for-the-badge&color=000000"></td>
-      <td><code>NPM</code> <code>NVM</code> <code>PNPM</code> <code>ESLint</code> <code>Prettier</code> <code>Framer Motion</code></td>
+      <td><img src="https://img.shields.io/badge/🧰 Tooling-00ff6a?style=for-the-badge&color=000000"></td>
+      <td><code>TypeScript</code> <code>PNPM</code> <code>Bun</code> <code>ESLint</code> <code>Prettier</code> <code>Ruff</code> <code>Black</code> <code>Husky</code> <code>PostCSS</code> <code>Turbopack</code></td>
     </tr>
   </table>
 
